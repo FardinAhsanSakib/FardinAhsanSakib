@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @FardinAhsanSakib \
-👀 I’m looking for SWE Roles \
+👀 Actively looking for internships \
 🔭 I’m currently working on NLP Projects \
 📫 How to reach me: fsakib@gmu.edu \
 😄 Pronouns: he/him \

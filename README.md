@@ -7,4 +7,4 @@
 💞️ Hobbies: Travelling, Watching Football, Working on pet projects
 
 
-![Snake animation](https://github.com/{{your_username}}/{{FardinAhsanSakib}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{FardinAhsanSakib}}/{{FardinAhsanSakib}}/blob/output/github-contribution-grid-snake.svg)
